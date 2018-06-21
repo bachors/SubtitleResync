@@ -12,7 +12,7 @@ import java.util.regex.Pattern;
 
 /**
  * Created by @bachors on 6/12/2018.
- * https://github.com/bachors/Android-SubtitleResync
+ * https://github.com/bachors/SubtitleResync
  */
 
 public class SubtitleResync {
