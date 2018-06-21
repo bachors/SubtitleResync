@@ -1,4 +1,6 @@
 # SubtitleResync
+[![Release](https://jitpack.io/v/bachors/SubtitleResync.svg)](https://jitpack.io/#bachors/SubtitleResync)
+
 Subtitle Resync
 
 Gradle
