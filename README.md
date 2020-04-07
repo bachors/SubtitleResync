@@ -38,4 +38,4 @@ new SubtitleResync()
     });
 ```
 
-<a href="https://play.google.com/store/apps/details?id=com.bachors.subtitlestudio"><h1>DEMO</h1></a>
+<a href="https://play.google.com/store/apps/details?id=com.ggstudio.subtitleeditor"><h1>DEMO</h1></a>
